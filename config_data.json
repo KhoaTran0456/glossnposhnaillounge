@@ -1,0 +1,802 @@
+{
+  "info": {
+    "salon": {
+      "store"     : "Gloss N Posh Nail Lounge",
+      "slug"      : "Gloss-n-posh-nail-lounge",
+      "phone"     : "(480) 926-1269",
+      "email"     : "glossposhnail@gmail.com",
+      "address"   : "1939 E Baseline Rd, Ste 102, Gilbert, Arizona 85233",
+      "district"  : "Gilbert",
+      "state"     : "Arizona 85233",
+      "time_1"    : "[Mon - Fri] 09:00 AM - 03:00 PM",
+      "time_2"    : "[Tue] Closed",
+      "time_3"    : "[Sat] 09:00 AM - 06:00 PM",
+      "time_4"    : "[Sun] 10:30 AM - 05:00 PM"
+    },
+    "social": {
+      "facebook"  : "https://www.facebook.com/GlossNPoshNailLounge",
+      "instagram" : "https://www.instagram.com/glossnposhnaillounge",
+      "google"    : "https://goo.gl/maps/eYg8RuDrfvrEpQ9J7",
+      "booking"   : "https://www.lldtek.com/salon/appt/MzMzODJ8Z2xvc3MxOTM5fEFaXzA3MTYzfGE2NmZkN2Y2NDg1ZjA5ZjM1YTYyYzI5MWE3YjRiNDBm",
+      "maps"      : "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3331.7633237563177!2d-111.79157108450299!3d33.37724448079489!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872ba9362063e1e5%3A0x5b516ea763f700cf!2sGloss%20N%20Posh%20Nail%20Lounge!5e0!3m2!1sen!2s!4v1676443684321!5m2!1sen!2s"
+    },
+    "color": {
+      "primary"               : "#1A1A1A",
+      "primary_light"         : "#727272",
+      "primary_hover"         : "#87DD2C",
+      "secondary"             : "#90C73E",
+      "secondary_hover"       : "#88BC3A",
+      "text_primary"          : "#FFFFFF",
+      "text_primary_hover"    : "#FFFFFF",
+      "text_secondary"        : "#FFFFFF",
+      "text_secondary_hover"  : "#FFFFFF",
+      "text_title"            : "#429D64",
+      "text_title_hover"      : "#90C73E"
+    },
+    "debug": "on",
+    "path_image": "images",
+    "domain": "https://glossnposhnaillounge.com/"
+  },
+  "gallery": [
+    {
+      "name": "gallery-01",
+      "url": "Gloss-n-posh-nail-lounge-gallery-01.jpg",
+      "home": true
+    },
+    {
+      "name": "gallery-02",
+      "url": "Gloss-n-posh-nail-lounge-gallery-02.jpg",
+      "home": false
+    },
+    {
+      "name": "gallery-03",
+      "url": "Gloss-n-posh-nail-lounge-gallery-03.jpg",
+      "home": false
+    },
+    {
+      "name": "gallery-04",
+      "url": "Gloss-n-posh-nail-lounge-gallery-04.jpg",
+      "home": false
+    },
+    {
+      "name": "gallery-05",
+      "url": "Gloss-n-posh-nail-lounge-gallery-05.jpg",
+      "home": true
+    },
+    {
+      "name": "gallery-06",
+      "url": "Gloss-n-posh-nail-lounge-gallery-06.jpg",
+      "home": false
+    },
+    {
+      "name": "gallery-07",
+      "url": "Gloss-n-posh-nail-lounge-gallery-07.jpg",
+      "home": true
+    },
+    {
+      "name": "gallery-08",
+      "url": "Gloss-n-posh-nail-lounge-gallery-08.jpg",
+      "home": true
+    },
+    {
+      "name": "gallery-09",
+      "url": "Gloss-n-posh-nail-lounge-gallery-09.jpg",
+      "home": false
+    },
+    {
+      "name": "gallery-10",
+      "url": "Gloss-n-posh-nail-lounge-gallery-10.jpg",
+      "home": false
+    },
+    {
+      "name": "gallery-11",
+      "url": "Gloss-n-posh-nail-lounge-gallery-11.jpg",
+      "home": false
+    },
+    {
+      "name": "gallery-12",
+      "url": "Gloss-n-posh-nail-lounge-gallery-12.jpg",
+      "home": false
+    },
+    {
+      "name": "gallery-13",
+      "url": "Gloss-n-posh-nail-lounge-gallery-13.jpg",
+      "home": false
+    },
+    {
+      "name": "gallery-14",
+      "url": "Gloss-n-posh-nail-lounge-gallery-14.jpg",
+      "home": false
+    },
+    {
+      "name": "gallery-15",
+      "url": "Gloss-n-posh-nail-lounge-gallery-15.jpg",
+      "home": false
+    }  
+
+  ],
+  "specialties": [
+    {
+      "name": "specialties-02",
+      "url": "Gloss-n-posh-nail-lounge-gallery-08.jpg"
+    },
+    {
+      "name": "specialties-03",
+      "url": "Gloss-n-posh-nail-lounge-gallery-07.jpg"
+    },
+    {
+      "name": "specialties-04",
+      "url": "Gloss-n-posh-nail-lounge-gallery-06.jpg"
+    },
+    {
+      "name": "specialties-05",
+      "url": "Gloss-n-posh-nail-lounge-gallery-05.jpg"
+    },
+    {
+      "name": "specialties-06",
+      "url": "Gloss-n-posh-nail-lounge-gallery-04.jpg"
+    },
+    {
+      "name": "specialties-07",
+      "url": "Gloss-n-posh-nail-lounge-gallery-03.jpg"
+    },
+    {
+      "name": "specialties-08",
+      "url": "Gloss-n-posh-nail-lounge-gallery-02.jpg"
+    },
+    {
+      "name": "specialties-09",
+      "url": "Gloss-n-posh-nail-lounge-gallery-01.jpg"
+    }
+  ],
+  "categories": [
+    {
+      "name": "Acrylics",
+      "src": "Gloss-n-posh-nail-lounge-service-01.jpg",
+      "home": true
+    },
+    {
+      "name": "Builder Hard Gel",
+      "src": "Gloss-n-posh-nail-lounge-service-02.jpg",
+      "home": true
+    },
+    {
+      "name": "Healthy Dipping Powder",
+      "src": "Gloss-n-posh-nail-lounge-service-03.jpg",
+      "home": true
+    },
+    {
+      "name": "Additional Service",
+      "src": "Gloss-n-posh-nail-lounge-service-04.jpg",
+      "home": false
+    },
+    {
+      "name": "Specialties Pedicure",
+      "src": "Gloss-n-posh-nail-lounge-service-05.jpg",
+      "home": false
+    },
+    {
+      "name": "Acrylic For Toe Nails",
+      "src": "Gloss-n-posh-nail-lounge-service-06.jpg",
+      "home": false
+    },
+    {
+      "name": "Spa Manicure",
+      "src": "Gloss-n-posh-nail-lounge-service-07.jpg",
+      "home": false
+    },
+    {
+      "name": "Children Spa Specialties",
+      "src": "Gloss-n-posh-nail-lounge-service-08.jpg",
+      "home": false
+    },
+    {
+      "name": "Additional Services",
+      "src": "Gloss-n-posh-nail-lounge-service-09.jpg",
+      "home": false
+    },
+    {
+      "name": "Face Waxing & Tinting",
+      "src": "Gloss-n-posh-nail-lounge-service-10.jpg",
+      "home": false
+    },
+    {
+      "name": "Body Waxing",
+      "src": "Gloss-n-posh-nail-lounge-service-11.jpg",
+      "home": false
+    }
+  ],
+  "services": [
+    {
+      "category": "Acrylics",
+      "name": "Acrylic Full Set",
+      "url": "",
+      "price": 35,
+      "plus": true
+    },
+    {
+      "category": "Acrylics",
+      "name": "Acrylic Full Set W/Gel",
+      "url": "",
+      "price": 45,
+      "plus": true
+    },
+    {
+      "category": "Acrylics",
+      "name": "Acrylic Fill",
+      "url": "",
+      "price": 25,
+      "plus": true
+    },
+    {
+      "category": "Acrylics",
+      "name": "Acrylic Fill W/Gel",
+      "url": "",
+      "price": 35,
+      "plus": true
+    },
+    {
+      "category": "Acrylics",
+      "name": "White Tips Full Set W/Gel",
+      "url": "",
+      "price": 45,
+      "plus": true
+    },
+    {
+      "category": "Acrylics",
+      "name": "Ombre Full Set",
+      "url": "",
+      "price": 55,
+      "plus": true
+    },
+    {
+      "category": "Acrylics",
+      "name": "Ombre Fill",
+      "url": "",
+      "price": 35,
+      "plus": true
+    },
+    {
+      "category": "Acrylics",
+      "name": "Pink & White Full Set",
+      "url": "",
+      "price": 55,
+      "plus": true
+    },
+    {
+      "category": "Acrylics",
+      "name": "Pink & White Backfill",
+      "url": "",
+      "price": 50,
+      "plus": true
+    },
+    {
+      "category": "Acrylics",
+      "name": "Extra Charge For Shape/Length/Take Off",
+      "url": "",
+      "price": 5,
+      "plus": true
+    },
+    
+
+
+    {
+      "category": "Builder Hard Gel",
+      "name": "Full Set W/Gel Polish",
+      "url": "",
+      "price": 60,
+      "plus": true
+    },
+    {
+      "category": "Builder Hard Gel",
+      "name": "Fill-In W/Gel Polish",
+      "url": "",
+      "price": 50,
+      "plus": true
+    },
+    {
+      "category": "Builder Hard Gel",
+      "name": "Full Set Pink & White",
+      "url": "",
+      "price": 65,
+      "plus": true
+    },
+    {
+      "category": "Builder Hard Gel",
+      "name": "Pink & White Backfill",
+      "url": "",
+      "price": 60,
+      "plus": true
+    },
+    {
+      "category": "Builder Hard Gel",
+      "name": "Fill-In With Pink",
+      "url": "",
+      "price": 40,
+      "plus": true
+    },
+    {
+      "category": "Builder Hard Gel",
+      "name": "Full Set Ombre",
+      "url": "",
+      "price": 65,
+      "plus": true
+    },
+    {
+      "category": "Builder Hard Gel",
+      "name": "Ombre Backfill",
+      "url": "",
+      "price": 60,
+      "plus": true
+    },
+    {
+      "category": "Builder Hard Gel",
+      "name": "Extra Charge For Shape/Length/Take Off",
+      "url": "",
+      "price": 5,
+      "plus": true
+    },
+    
+
+
+
+    {
+      "category": "Healthy Dipping Powder",
+      "name": "Dip Overlay",
+      "url": "",
+      "price": 40,
+      "plus": true
+    },
+    {
+      "category": "Healthy Dipping Powder",
+      "name": "Dip W/Tips",
+      "url": "",
+      "price": 45,
+      "plus": true
+    },
+    {
+      "category": "Healthy Dipping Powder",
+      "name": "Gel Polish Add-On",
+      "url": "",
+      "price": 10,
+      "plus": false
+    },
+    {
+      "category": "Healthy Dipping Powder",
+      "name": "Dip Overlay Pink & White",
+      "url": "",
+      "price": 48,
+      "plus": true
+    },
+    {
+      "category": "Healthy Dipping Powder",
+      "name": "Dip Pink & White W/Tips",
+      "url": "",
+      "price": 53,
+      "plus": true
+    },
+    {
+      "category": "Healthy Dipping Powder",
+      "name": "Dip W/Ombre",
+      "url": "",
+      "price": 50,
+      "plus": true
+    },
+    {
+      "category": "Healthy Dipping Powder",
+      "name": "Extra Charge For Shape/Length/Take Off",
+      "url": "",
+      "price": 5,
+      "plus": true
+    },
+    {
+      "category": "Healthy Dipping Powder",
+      "name": "Extra Charge For Cuticles Care",
+      "url": "",
+      "price": 30,
+      "plus": false
+    },
+
+
+
+    {
+      "category": "Additional Service",
+      "name": "Paraffin Wax Treatment",
+      "url": "",
+      "price": 7,
+      "plus": false
+    },
+    {
+      "category": "Additional Service",
+      "name": "Callus Treatment",
+      "url": "",
+      "price": 7,
+      "plus": false
+    },
+    {
+      "category": "Additional Service",
+      "name": "Sugar Scrub",
+      "url": "",
+      "price": 7,
+      "plus": false
+    },
+    {
+      "category": "Additional Service",
+      "name": "French Or Color Tip",
+      "url": "",
+      "price": 7,
+      "plus": false
+    },
+    {
+      "category": "Additional Service",
+      "name": "Nail ART",
+      "url": "",
+      "price": 7,
+      "plus": false
+    },
+    {
+      "category": "Additional Service",
+      "name": "Gel Polish",
+      "url": "",
+      "price": 15,
+      "plus": false
+    },
+    {
+      "category": "Additional Service",
+      "name": "Gel Polish Change",
+      "url": "",
+      "price": 25,
+      "plus": false
+    },
+    {
+      "category": "Additional Service",
+      "name": "Regular Polish Change",
+      "url": "",
+      "price": 15,
+      "plus": false
+    },
+
+
+
+    {
+      "category": "Specialties Pedicure",
+      "name": "Gloss N Posh Bomb Spa",
+      "url": "",
+      "price": 75,
+      "plus": false
+    },
+    {
+      "category": "Specialties Pedicure",
+      "name": "CBD Therapy Spa",
+      "url": "",
+      "price": 65,
+      "plus": false
+    },
+    {
+      "category": "Specialties Pedicure",
+      "name": "Luxury Organic Spa",
+      "url": "",
+      "price": 55,
+      "plus": false
+    },
+    {
+      "category": "Specialties Pedicure",
+      "name": "Organic Tropical Summer Spa",
+      "url": "",
+      "price": 45,
+      "plus": false
+    },
+    {
+      "category": "Specialties Pedicure",
+      "name": "Deluxe Spa",
+      "url": "",
+      "price": 35,
+      "plus": false
+    },
+    {
+      "category": "Specialties Pedicure",
+      "name": "Classic Spa",
+      "url": "",
+      "price": 30,
+      "plus": false
+    },
+
+
+
+    {
+      "category": "Acrylic For Toe Nails",
+      "name": "Full Set",
+      "url": "",
+      "price": 50,
+      "plus": true
+    },
+    {
+      "category": "Acrylic For Toe Nails",
+      "name": "Full-In",
+      "url": "",
+      "price": 40,
+      "plus": true
+    },
+    {
+      "category": "Acrylic For Toe Nails",
+      "name": "Big Toe",
+      "url": "",
+      "price": 5,
+      "plus": false
+    },
+
+
+
+    {
+      "category": "Spa Manicure",
+      "name": "Classic Mani",
+      "url": "",
+      "price": 20,
+      "plus": false
+    },
+    {
+      "category": "Spa Manicure",
+      "name": "Deluxe Mani",
+      "url": "",
+      "price": 28,
+      "plus": false
+    },
+    {
+      "category": "Spa Manicure",
+      "name": "Signature Mani",
+      "url": "",
+      "price": 40,
+      "plus": false
+    },
+    {
+      "category": "Spa Manicure",
+      "name": "Gel Mani",
+      "url": "",
+      "price": 30,
+      "plus": false
+    },
+    {
+      "category": "Spa Manicure",
+      "name": "Gel Polish Change",
+      "url": "",
+      "price": 25,
+      "plus": false
+    },
+
+
+
+    {
+      "category": "Children Spa Specialties",
+      "name": "Pedicure",
+      "url": "",
+      "price": 20,
+      "plus": false
+    },
+    {
+      "category": "Children Spa Specialties",
+      "name": "Manicure",
+      "url": "",
+      "price": 12,
+      "plus": false
+    },
+    {
+      "category": "Children Spa Specialties",
+      "name": "Pedi & Mani",
+      "url": "",
+      "price": 30,
+      "plus": false
+    },
+    {
+      "category": "Children Spa Specialties",
+      "name": "Gel Pedicure",
+      "url": "",
+      "price": 28,
+      "plus": false
+    },
+    {
+      "category": "Children Spa Specialties",
+      "name": "Gel Manicure",
+      "url": "",
+      "price": 20,
+      "plus": false
+    },
+    {
+      "category": "Children Spa Specialties",
+      "name": "Polish Change",
+      "url": "",
+      "price": 10,
+      "plus": false
+    },
+
+
+
+    {
+      "category": "Additional Services",
+      "name": "Nail Trim",
+      "url": "",
+      "price": 10,
+      "plus": false
+    },
+    {
+      "category": "Additional Services",
+      "name": "Buff & Shine",
+      "url": "",
+      "price": 5,
+      "plus": false
+    },
+    {
+      "category": "Additional Services",
+      "name": "Gel Polish",
+      "url": "",
+      "price": 15,
+      "plus": false
+    },
+    {
+      "category": "Additional Services",
+      "name": "Nail Repair",
+      "url": "",
+      "price": 5,
+      "plus": true
+    },
+    {
+      "category": "Additional Services",
+      "name": "Nail Take Off",
+      "url": "",
+      "price": 10,
+      "plus": false
+    },
+    {
+      "category": "Additional Services",
+      "name": "Nail ART",
+      "url": "",
+      "price": 5,
+      "plus": true
+    },
+    {
+      "category": "Additional Services",
+      "name": "Chrome Powder",
+      "url": "",
+      "price": 10,
+      "plus": false
+    },
+
+
+
+    {
+      "category": "Face Waxing & Tinting",
+      "name": "Eyebrows",
+      "url": "",
+      "price": 12,
+      "plus": false
+    },
+    {
+      "category": "Face Waxing & Tinting",
+      "name": "Upper Lip",
+      "url": "",
+      "price": 5,
+      "plus": false
+    },
+    {
+      "category": "Face Waxing & Tinting",
+      "name": "Chin",
+      "url": "",
+      "price": 12,
+      "plus": false
+    },
+    {
+      "category": "Face Waxing & Tinting",
+      "name": "Combo Eyebrows, Upper Lip & Chin",
+      "url": "",
+      "price": 25,
+      "plus": false
+    },
+    {
+      "category": "Face Waxing & Tinting",
+      "name": "Sideburn",
+      "url": "",
+      "price": 15,
+      "plus": false
+    },
+    {
+      "category": "Face Waxing & Tinting",
+      "name": "Full Face",
+      "url": "",
+      "price": 40,
+      "plus": false
+    },
+    {
+      "category": "Face Waxing & Tinting",
+      "name": "Tinting Eyebrows",
+      "url": "",
+      "price": 20,
+      "plus": false
+    },
+    {
+      "category": "Face Waxing & Tinting",
+      "name": "Eyebrows Wax & Tint",
+      "url": "",
+      "price": 30,
+      "plus": false
+    },
+    
+    
+    
+    {
+      "category": "Body Waxing",
+      "name": "Full Arms",
+      "url": "",
+      "price": 45,
+      "plus": true
+    },
+    {
+      "category": "Body Waxing",
+      "name": "Half Arms",
+      "url": "",
+      "price": 30,
+      "plus": true
+    },
+    {
+      "category": "Body Waxing",
+      "name": "Full Legs",
+      "url": "",
+      "price": 60,
+      "plus": true
+    },
+    {
+      "category": "Body Waxing",
+      "name": "Half Legs",
+      "url": "",
+      "price": 40,
+      "plus": true
+    },
+    {
+      "category": "Body Waxing",
+      "name": "Back",
+      "url": "",
+      "price": 45,
+      "plus": true
+    },
+    {
+      "category": "Body Waxing",
+      "name": "Chest",
+      "url": "",
+      "price": 45,
+      "plus": true
+    },
+    {
+      "category": "Body Waxing",
+      "name": "Under Arms",
+      "url": "",
+      "price": 20,
+      "plus": true
+    },
+    {
+      "category": "Body Waxing",
+      "name": "Bikini Line",
+      "url": "",
+      "price": 35,
+      "plus": true
+    },
+    {
+      "category": "Body Waxing",
+      "name": "Brazilian",
+      "url": "",
+      "price": 50,
+      "plus": true
+    },
+    {
+      "category": "Body Waxing",
+      "name": "Full Body Woman",
+      "url": "",
+      "price": 170,
+      "plus": true
+    },
+    {
+      "category": "Body Waxing",
+      "name": "Full Body Men",
+      "url": "",
+      "price": 190,
+      "plus": true
+    }
+  ]
+}
